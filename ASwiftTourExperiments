@@ -3,6 +3,8 @@ import UIKit
 // Written at iOS: 11.5.2 macOS Big Sur XCode: Version 12.5.1 (12E507)
 // by Kate Sychenko, https://github.com/visiongirles
 
+// Tasks from https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+
 // Task: Create a constant with an explicit type of Float and a value of 4.
 
 var float: Float = 4.0
